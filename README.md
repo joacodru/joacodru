@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on Keylab <br>🌱 I'm currently learning on Coursera from a course of back-end development by Meta<br>📚 I'm also studing the degree on computer science.
+💻 I'm currently working at Keylab<br>📚 I'm also studing for a degree on computer science at FAMAF-UNC.
 
 
 ## 🌐 Socials:
