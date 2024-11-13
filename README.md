@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working at Keylab<br>📚 I'm also studing for a degree on computer science at FAMAF-UNC.
+💻 I'm currently working at Keylab<br>📚 I'm also studying for a degree in computer science at FAMAF-UNC.<br>🎮 In addition to my professional and academic pursuits, I enjoy developing video games as a part-time hobby.
 
 
 ## 🌐 Socials:
